@@ -1,17 +1,26 @@
 # allsky-rpi-hq-camera-enclosure
 
 ## AllSky enclosure for Raspberry Pi and HQ Camera 
--Includes CAD models in Fusion 360<br>
+* Includes CAD models in Fusion 360<br>
 
--Supports Raspberry Pi 4 and 5 Models<br>
+* Supports Raspberry Pi 4 and 5 Models<br>
 
--Supports optional Ethernet with POE hats<br>
+* Supports optional Ethernet with POE hats<br>
 
--Includes BME280 Weather Sensor with Temperature, Humidity and Ait Pressure<br>
+* Includes BME280 Weather Sensor with Temperature, Humidity and Ait Pressure<br>
 
+![]( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/ALLSKY-CAMERA-TOP-VIEW-CLOSEUP-O-RING-VERSION.jpg )
+
+## Backround of this project
+  * I started the ALLSKY Camera Enclosure project back in 2020 and have been using versions of it for the past several years
+  * I created CAD models using Fusion 360 
+  * I am now at the point where I feel comfortable with the design so I am completing documention prtesently
+
+## Software requirement
+https://github.com/AllskyTeam/allsky - this runs on the Raspberry PI<br>
 
 ## Hardware requirements
-- Not hardware listed is used - it depends on the Raspberry Pi and POE Hat used
+* Not hardware listed is used - it depends on the Raspberry Pi and POE Hat used
 
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
@@ -53,5 +62,3 @@
 | Fusion Grip Tape - Silicone | [LINK]( https://www.amazon.ca/dp/B072QYQN7B ) | [LINK]( https://www.amazon.ca/dp/B072QYQN7B ) |
 | 5 Gram Orange Indicatining Silica Packets | [LINK]( https://www.amazon.ca/dp/B07FSZVZFV ) | [ LINK]( https://www.amazon.ca/dp/B07FSZVZFV ) |
 
-## Software requirement
-[LINK](https://github.com/AllskyTeam/allsky - this runs on the Raspberry PI<br>
