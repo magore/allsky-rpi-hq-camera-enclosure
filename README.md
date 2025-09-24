@@ -27,9 +27,13 @@
 | Noctua NF-A4x10 5V 40x10mm PREMIUM FAN | [LINK](https://noctua.at/en/products/fan/nf-a4x10-5v ) | |
 | 3.15inch/80mm w/ 4 Holes Clear Acrylic Flange Plastic | [LINK](https://www.amazon.ca/dp/B07L6FBMXF ) | [LINK](https://www.amazon.com/dp/B07L6FBMXF ) |
 | 1/4"-20 x 1 Black Thread Thumb Screw, Stainless Steel | [LINK](https://www.amazon.ca/dp/B0DC5Y3KLQ ) | [LINK](https://www.amazon.com/dp/B0DC5Y3KLQ ) |
-| M3 x 12 Phillips Flat Head | | |
-| M2.5 x 6 Phillips Flat Head | | |
-| M2.5 x 6 Female-Female Brass Standoffs | | |
+| M3 x 12 Phillips Flat Head Stainless Machine Screw | | |
+| M2.5 x 6 Phillips Flat Head stainless Machine Screw | | |
+| M4 x 20 Philips Pan Head Stainless Machine Screw | | |
+| M4 Nuts Stainless Machine Screw | | |
+| M4 Nuts Stainless Washers | | |
+| M2.5 x 6 Brass Standoffs Female-Female | | |
+| M2.5 x 15 Brass Standoffs Female-Female | | |
 |QWIIC BME280 ATMOSPHERIC SENSOR| DigiKey 1568-15440-ND | SparkFun 15440|
 | Sparkfun Qwiic Multiport BOB-18012 | Digikey 1568-18012-ND | Sparkfun BOB-18012 | 
 | SparkFun Qwiic Cable BOB-18012 | 1568-15081-ND | Sparkfun BOB-18012 | 
@@ -41,8 +45,11 @@
 | (untested ) Waveshare PCIe To M.2 Adapter With PoE Function (C ) For Raspberry Pi 5, Supports NVM | [LINK](https://www.waveshare.com/poe-m.2-hat-plus-c.htm ) | |
 | 2 x 20 (40 Pin) Extra Tall Female 0.1 Inch Pitch Stacking Header | [LINK]( https://www.amazon.ca/Female-Stacking-Header-Compatible-Raspberry/dp/B084Q4W1PW ) | [LINK]( https://www.amazon.com/Female-Stacking-Header-Compatible-Raspberry/dp/B084Q4W1PW ) |
 | JST SM female connector Kit | [LINK]( https://www.amazon.ca/dp/B07BGV7H7V ) | [LINK]( https://www.amazon.com/dp/B07BGV7H7V ) |
-| ( OPTIONAL ) Micro Molex Crimper: Compatible with D-Sub, JST, JAE Connectors, 32-20AWG | [LINK] ( https://www.amazon.ca/dp/B082X45D7T?ref_=ppx_hzsearch_conn_dt_b_fed_asin ) | [LINK]( https://www.amazon.ca/dp/B082X45D7T?ref_=ppx_hzsearch_conn_dt_b_fed_asin ) |
-| CORSAIR MP600 MINI 1TB M.2 NVMe PCIe x4 Gen4 2 SSD 2230 ] [LINK]( https://www.amazon.ca/dp/B0D9MJCFNK ) [LINK\(https://www.amazon.com/dp/B0D9MJCFNK ) |
+| ( OPTIONAL ) Micro Molex Crimper: Compatible with D-Sub, JST, JAE Connectors, 32-20AWG | [LINK] ( https://www.amazon.ca/dp/B082X45D7T ) | [LINK]( https://www.amazon.ca/dp/B082X45D7T ) |
+| CORSAIR MP600 MINI 1TB M.2 NVMe PCIe x4 Gen4 2 SSD 2230 ] [LINK]( https://www.amazon.ca/dp/B0D9MJCFNK ) [LINK]( https://www.amazon.com/dp/B0D9MJCFNK ) |
+| 5x10 mm cylinder Neodymium Magnets | [LINK]( https://www.amazon.ca/dp/B0DQKTHBCN ) | [LINK]( https://www.amazon.com/dp/B0DQKTHBCN ) |
+| Fusion Grip Tape - Silicone | [LINK]( https://www.amazon.ca/dp/B072QYQN7B ) | [LINK] ( https://www.amazon.ca/dp/B072QYQN7B ) |
+| 5 Gram Orange Indicatining Silica Packets | [LINK]( https://www.amazon.ca/dp/B07FSZVZFV ) | [ LINK]( https://www.amazon.ca/dp/B07FSZVZFV ) |
 
 ## Software requirement
 [LINK](https://github.com/AllskyTeam/allsky - this runs on the Raspberry PI<br>
