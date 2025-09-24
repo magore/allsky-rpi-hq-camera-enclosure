@@ -11,9 +11,10 @@
 
 
 ## Hardware requirements
+- Not hardware listed is used - it depends on the Raspberry Pi and POE Hat used
 
 | Description | Source 1 | Source 2|
-|-----:|---------------|-----------|
+|-------------:|---------------|---------------|
 | LOCK RING M12X0.5| Digikey 2938-2000035198-ND | Basler Inc. 2000035198 |
 | Raspberry Pi HQ Camera Sony IMX477 | Digikey  2648-SC1220-ND | https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/ | 
 | 12MP 1.85MM ULTRA WIDE ANGEL | Digikey 4555-ED-LENS-M12-170185-12-ND | EDATEC ED-LENS-M12-170185-12 |
@@ -25,7 +26,7 @@
 | IPEX Ecolotube 3 inch PVC Sewer Solid Sewer Pipe 76.2mm ID 82.5mm OD | SKU # 1000659635  https://www.homedepot.ca/product/ipex-ecolotube-3-inch-x-10-feet-pvc-sewer-solid-sewer-pipe/1000659635 | |
 | Noctua NF-A4x10 5V 40x10mm PREMIUM FAN | https://noctua.at/en/products/fan/nf-a4x10-5v | |
 | 3.15inch/80mm w/ 4 Holes Clear Acrylic Flange Plastic | https://www.amazon.ca/dp/B07L6FBMXF | https://www.amazon.com/dp/B07L6FBMXF |
-| 1/4"-20 x 1 Black Thread Thumb Screw, Stainless Steel | | https://www.amazon.ca/dp/B0DC5Y3KLQ | https://www.amazon.com/dp/B0DC5Y3KLQ |
+| 1/4"-20 x 1 Black Thread Thumb Screw, Stainless Steel | https://www.amazon.ca/dp/B0DC5Y3KLQ | https://www.amazon.com/dp/B0DC5Y3KLQ |
 | M3 x 12 Phillips Flat Head | | |
 | M2.5 x 6 Phillips Flat Head | | |
 | M2.5 x 6 Female-Female Brass Standoffs | | |
