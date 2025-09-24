@@ -28,6 +28,7 @@
 | 3.15inch/80mm w/ 4 Holes Clear Acrylic Flange Plastic | [LINK](https://www.amazon.ca/dp/B07L6FBMXF ) | [LINK](https://www.amazon.com/dp/B07L6FBMXF ) |
 | 1/4"-20 x 1 Black Thread Thumb Screw, Stainless Steel | [LINK](https://www.amazon.ca/dp/B0DC5Y3KLQ ) | [LINK](https://www.amazon.com/dp/B0DC5Y3KLQ ) |
 | M3 x 12 Phillips Flat Head Stainless Machine Screw | | |
+| M3 x 20 Phillips Flat Head Stainless Machine Screw | | |
 | M2.5 x 6 Phillips Flat Head stainless Machine Screw | | |
 | M4 x 20 Philips Pan Head Stainless Machine Screw | | |
 | M4 Nuts Stainless Machine Screw | | |
