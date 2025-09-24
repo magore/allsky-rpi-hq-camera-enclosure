@@ -37,7 +37,6 @@
 | PG7 Cable Gland  with gasket | | |
 | Goalake Poe Managed 5 Port Gigabit Switch | [LINK](https://www.amazon.ca/dp/B0D2X4M1R7 ) | [LINK](https://www.amazon.com/dp/B0D2X4M1R7 ) |
 | Waveshare Raspberry Pi 4 POE HAT (E) | [LINK](https://www.amazon.ca/dp/B0BKK6FXRJ ) | [LINK](https://www.amazon.com/dp/B0BKK6FXRJ ) |
-
 | Hacker Gadgets Raspberry Pi 5 POE+ Nvme Hat | [LINK](https://hackergadgets.com/products/nvme-and-poe-hat-for-raspberry-pi-5 ) | |
 | (untested ) Waveshare PCIe To M.2 Adapter With PoE Function (C ) For Raspberry Pi 5, Supports NVM | [LINK](https://www.waveshare.com/poe-m.2-hat-plus-c.htm ) | |
 
