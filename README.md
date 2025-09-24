@@ -14,7 +14,7 @@
 - Not hardware listed is used - it depends on the Raspberry Pi and POE Hat used
 
 | Description | Source 1 | Source 2|
-|-------------:|---------------|---------------|
+|-----------------------------|---|---|
 | LOCK RING M12X0.5| Digikey 2938-2000035198-ND | Basler Inc. 2000035198 |
 | Raspberry Pi HQ Camera Sony IMX477 | Digikey  2648-SC1220-ND | https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/ | 
 | 12MP 1.85MM ULTRA WIDE ANGEL | Digikey 4555-ED-LENS-M12-170185-12-ND | EDATEC ED-LENS-M12-170185-12 |
