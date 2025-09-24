@@ -37,6 +37,7 @@
 |QWIIC BME280 ATMOSPHERIC SENSOR| DigiKey 1568-15440-ND | SparkFun 15440|
 | Sparkfun Qwiic Multiport BOB-18012 | Digikey 1568-18012-ND | Sparkfun BOB-18012 | 
 | SparkFun Qwiic Cable BOB-18012 | 1568-15081-ND | Sparkfun BOB-18012 | 
+| SCREEN Cover - using Faucet Aerator Parts 15/16" | [LINK]( https://www.amazon.ca/dp/B08XNRCDV6 ) | {LINK]( https://www.amazon.com/dp/B08XNRCDV6 ) |
 | Ethernet LAN Cable Coupler Outdoor Adapter Weatherproof Connection (6-Pack ) | [LINK](https://www.amazon.ca/dp/B08GPB8M6B ) | [LINK](https://www.amazon.com/dp/B08GPB8M6B ) |
 | PG7 Cable Gland  with gasket | | |
 | Goalake Poe Managed 5 Port Gigabit Switch | [LINK](https://www.amazon.ca/dp/B0D2X4M1R7 ) | [LINK](https://www.amazon.com/dp/B0D2X4M1R7 ) |
