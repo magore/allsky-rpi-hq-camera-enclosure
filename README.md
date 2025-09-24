@@ -10,6 +10,7 @@
 * Includes BME280 Weather Sensor with Temperature, Humidity and Ait Pressure<br>
 
 ![]( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/ALLSKY-CAMERA-TOP-VIEW-CLOSEUP-O-RING-VERSION.jpg )
+![] ( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/ALLSKY-CAMERA-FULL-VIEW-WITH-PIPE-MOUNT.jpg )
 
 ## Backround of this project
   * I started the ALLSKY Camera Enclosure project back in 2020 and have been using versions of it for the past several years
