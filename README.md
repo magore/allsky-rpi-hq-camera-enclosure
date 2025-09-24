@@ -45,10 +45,10 @@
 | (untested ) Waveshare PCIe To M.2 Adapter With PoE Function (C ) For Raspberry Pi 5, Supports NVM | [LINK](https://www.waveshare.com/poe-m.2-hat-plus-c.htm ) | |
 | 2 x 20 (40 Pin) Extra Tall Female 0.1 Inch Pitch Stacking Header | [LINK]( https://www.amazon.ca/Female-Stacking-Header-Compatible-Raspberry/dp/B084Q4W1PW ) | [LINK]( https://www.amazon.com/Female-Stacking-Header-Compatible-Raspberry/dp/B084Q4W1PW ) |
 | JST SM female connector Kit | [LINK]( https://www.amazon.ca/dp/B07BGV7H7V ) | [LINK]( https://www.amazon.com/dp/B07BGV7H7V ) |
-| ( OPTIONAL ) Micro Molex Crimper: Compatible with D-Sub, JST, JAE Connectors, 32-20AWG | [LINK] ( https://www.amazon.ca/dp/B082X45D7T ) | [LINK]( https://www.amazon.ca/dp/B082X45D7T ) |
+| ( OPTIONAL ) Micro Molex Crimper: Compatible with D-Sub, JST, JAE Connectors, 32-20AWG | [LINK]( https://www.amazon.ca/dp/B082X45D7T ) | [LINK]( https://www.amazon.ca/dp/B082X45D7T ) |
 | CORSAIR MP600 MINI 1TB M.2 NVMe PCIe x4 Gen4 2 SSD 2230 ] [LINK]( https://www.amazon.ca/dp/B0D9MJCFNK ) [LINK]( https://www.amazon.com/dp/B0D9MJCFNK ) |
 | 5x10 mm cylinder Neodymium Magnets | [LINK]( https://www.amazon.ca/dp/B0DQKTHBCN ) | [LINK]( https://www.amazon.com/dp/B0DQKTHBCN ) |
-| Fusion Grip Tape - Silicone | [LINK]( https://www.amazon.ca/dp/B072QYQN7B ) | [LINK] ( https://www.amazon.ca/dp/B072QYQN7B ) |
+| Fusion Grip Tape - Silicone | [LINK]( https://www.amazon.ca/dp/B072QYQN7B ) | [LINK]( https://www.amazon.ca/dp/B072QYQN7B ) |
 | 5 Gram Orange Indicatining Silica Packets | [LINK]( https://www.amazon.ca/dp/B07FSZVZFV ) | [ LINK]( https://www.amazon.ca/dp/B07FSZVZFV ) |
 
 ## Software requirement
