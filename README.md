@@ -22,7 +22,8 @@
 https://github.com/AllskyTeam/allsky - this runs on the Raspberry PI<br>
 
 ## Hardware requirements
-* Not hardware listed is used - it depends on the Raspberry Pi and POE Hat used
+* Not all hardware listed is used - it depends on the Raspberry Pi version 4 or 5 and POE Hat used
+* I used kits of stainless steel screws, brass hex spacers and JST connectors so specific part numbers for those items are not included. You can find them on Amazon
 
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
