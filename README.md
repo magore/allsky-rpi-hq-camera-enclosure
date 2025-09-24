@@ -11,6 +11,7 @@
 
 ![]( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/ALLSKY-CAMERA-TOP-VIEW-CLOSEUP-O-RING-VERSION.jpg )
 ![]( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/ALLSKY-CAMERA-FULL-VIEW-WITH-PIPE-MOUNT.jpg )
+![2024 Aurora Image]( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/IMAGES-AURORA-20240511022821.jpg )
 
 ## Backround of this project
   * I started the ALLSKY Camera Enclosure project back in 2020 and have been using versions of it for the past several years
