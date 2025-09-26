@@ -21,7 +21,8 @@
 ## Software requirement
 https://github.com/AllskyTeam/allsky - this runs on the Raspberry PI<br>
 
-
-[Hardware Images]( IMAGES.md )
+## Hardware 
 
 [Hardware Requirements]( HARDWARE.md )
+
+[Hardware Images of components]( IMAGES.md )
