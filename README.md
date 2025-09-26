@@ -1,5 +1,8 @@
 # allsky-rpi-hq-camera-enclosure
 
+## Copyright
+[MIT License Copyright 2020-2025 Mike Gore]( Copyright.md )
+
 ## AllSky enclosure for Raspberry Pi and HQ Camera 
 * Includes CAD models in Fusion 360<br>
 
@@ -27,5 +30,4 @@ https://github.com/AllskyTeam/allsky - this runs on the Raspberry PI<br>
 
 [Pictures of all hardware components]( IMAGES.md )
 
-[MIT License Copyright 2020-2025 Mike Gore]( Copyright.md )
 
