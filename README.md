@@ -13,7 +13,7 @@
 ![]( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/ALLSKY-CAMERA-O-RING-VERSION-WITH-POLL-MOUNT.jpg )
 ![2024 Aurora Image]( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/IMAGES-AURORA-20240511022821.jpg )
 ![2024 Aurora Image]( blob/main/images/IMAGES-AURORA-20240511043441.jpg )
-# ![2024 Aurora Image]( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/IMAGES-AURORA-20240511043441.jpg )
+[//]: # ![2024 Aurora Image]( https://github.com/magore/allsky-rpi-hq-camera-enclosure/blob/main/images/IMAGES-AURORA-20240511043441.jpg )
 
 ## Backround of this project
   * I started the ALLSKY Camera Enclosure project back in 2020 and have been using versions of it for the past several years
