@@ -25,4 +25,4 @@ https://github.com/AllskyTeam/allsky - this runs on the Raspberry PI<br>
 
 [Hardware Requirements]( HARDWARE.md )
 
-[Hardware Images of components]( IMAGES.md )
+[Hardware Images of all components]( IMAGES.md )
