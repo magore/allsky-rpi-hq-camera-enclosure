@@ -25,4 +25,7 @@ https://github.com/AllskyTeam/allsky - this runs on the Raspberry PI<br>
 
 [Hardware Requirements]( HARDWARE.md )
 
-[Hardware Images of all components]( IMAGES.md )
+[Pictures of all hardware components]( IMAGES.md )
+
+[MIT License Copyright 2020-2025 Mike Gore]( Copyright.md )
+
