@@ -1,3 +1,5 @@
+## Images of Allsky Camera COmponents - click for larger image
+
 [![]( thumbnails/IMAGES-AURORA-20240511043441_thumbnail.jpg )]( images/IMAGES-AURORA-20240511043441.jpg )
 [![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-WITH-POLL-MOUNT_thumbnail.jpg )]( images/ALLSKY-CAMERA-O-RING-VERSION-WITH-POLL-MOUNT.jpg )
 [![]( thumbnails/MAGNETIC-FOCUS-ADJUSTMENT_thumbnail.jpg )]( images/MAGNETIC-FOCUS/MAGNETIC-FOCUS-ADJUSTMENT.jpg )
