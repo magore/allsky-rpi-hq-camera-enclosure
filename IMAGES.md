@@ -28,12 +28,17 @@
 + O-Ring instalation
   + Remove support material from 3D print using a fine flat screw driver
     + insert vertically into the support gap and gently pry up repeat process every 30 degrees until the support releases
+
+
 [![]( thumbnails/TOP-ASSEMBLY-REMOVING-3D-PRINTER-SUPPORTS-FOR-O-RING_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-REMOVING-3D-PRINTER-SUPPORTS-FOR-O-RING.jpg )
 
 
   + Lay O-Ring on top of O-Ring slot on print
     + To avoid stretching o-ring press down into slot using thumbs first at 180 degrees apart, then 90, the 45, etc, until the oring is fully inserted
+
 [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLATION_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLATION.jpg )
+
+
 [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLED.jpg )
 [![]( thumbnails/TOP-CCOVER-O-RING-AND-DOME-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-CCOVER-O-RING-AND-DOME-INSTALLED.jpg )
 [![]( thumbnails/TOP-COVER-OPTICAL-DOME-O-RINGs_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-OPTICAL-DOME-O-RINGs.jpg )
