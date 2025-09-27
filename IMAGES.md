@@ -35,11 +35,14 @@
     + [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLATION_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLATION.jpg )
     + [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLED.jpg )
   + O-Rings used for top cover
-    + [![]( thumbnails/TOP-COVER-O-RING-AND-DOME-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-O-RING-AND-DOME-INSTALLED.jpg )
-    + [![]( thumbnails/TOP-COVER-OPTICAL-DOME-O-RINGs_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-OPTICAL-DOME-O-RINGs.jpg )
     + [![]( thumbnails/TOP-COVER-O-RING-INSTALLATION_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-O-RING-INSTALLATION.jpg )
     + [![]( thumbnails/TOP-COVER-O-RING-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-O-RING-INSTALLED.jpg )
-  + [![]( thumbnails/TOP-ASSEMBLY-TEST-FIT-WITH-DOME-AND-COVER_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-TEST-FIT-WITH-DOME-AND-COVER.jpg )
+  + O-Rings top cover and optical done
+    + [![]( thumbnails/TOP-COVER-O-RING-AND-DOME-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-O-RING-AND-DOME-INSTALLED.jpg )
+  + O-Rings top cover and optical done
+    + [![]( thumbnails/TOP-COVER-OPTICAL-DOME-O-RINGs_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-OPTICAL-DOME-O-RINGs.jpg )
+  + Dome, Top Cover and main assembly test fit
+    + [![]( thumbnails/TOP-ASSEMBLY-TEST-FIT-WITH-DOME-AND-COVER_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-TEST-FIT-WITH-DOME-AND-COVER.jpg )
 ### Heatset Inserts
 + Heatset Inserts for CNC Kitchen required for this project
 + These inserts have a narrow lip that fits into the deigned holes
