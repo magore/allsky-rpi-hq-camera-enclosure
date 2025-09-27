@@ -70,7 +70,8 @@
 ### Raspberry Pi 5 POE HAT 
 + Hacker Gadgets Raspberry Pi 5 PoE+ and NVME Hat
   + [![]( thumbnails/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT_thumbnail.jpg )]( images/RPI-INSTALLATION/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT.jpg )
-  + Must use tall ( long pin efmaile to male 20 x 2 header ) to permit access to GPIO pins
+  + Must use tall header extension to permit access to GPIO pins
+    + This is a 20 x 2 female to male extension header with long male pins
   + See GPIO section above
 
 ### O-RING version
