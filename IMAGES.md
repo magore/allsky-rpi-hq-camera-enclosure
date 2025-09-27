@@ -33,14 +33,16 @@
 	+ To avoid stretching o-ring press down into slot using thumbs first at 180 degrees apart, then 90, the 45, etc, until the oring is fully inserted
   + O-Rings used for top assembly
     + [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLATION_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLATION.jpg )
+  + O-Ring installed in top assembly
     + [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLED.jpg )
   + O-Rings used for top cover
     + [![]( thumbnails/TOP-COVER-O-RING-INSTALLATION_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-O-RING-INSTALLATION.jpg )
+  + O-Ring installed in top cover
     + [![]( thumbnails/TOP-COVER-O-RING-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-O-RING-INSTALLED.jpg )
-  + O-Rings top cover and optical done
-    + [![]( thumbnails/TOP-COVER-O-RING-AND-DOME-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-O-RING-AND-DOME-INSTALLED.jpg )
-  + O-Rings top cover and optical done
+  + O-Rings top cover and optical dome parts
     + [![]( thumbnails/TOP-COVER-OPTICAL-DOME-O-RINGs_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-OPTICAL-DOME-O-RINGs.jpg )
+  + O-Rings top cover and optical dome fitted
+    + [![]( thumbnails/TOP-COVER-O-RING-AND-DOME-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-COVER-O-RING-AND-DOME-INSTALLED.jpg )
   + Dome, Top Cover and main assembly test fit
     + [![]( thumbnails/TOP-ASSEMBLY-TEST-FIT-WITH-DOME-AND-COVER_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-TEST-FIT-WITH-DOME-AND-COVER.jpg )
 ### Heatset Inserts
