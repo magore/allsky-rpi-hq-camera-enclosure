@@ -59,9 +59,7 @@
   + Suggest using a wet paper towel when the iron is hot - the steam will help with cleaning
   + Make sure you keep the soldering iron vertical 
   + Let insert melt into part untill just below surface
-
-[![]( thumbnails/HOWTO-INSTALL--HEAT-SET-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/HOWTO-INSTALL--HEAT-SET-INSERTS.jpg )
-
+  + [![]( thumbnails/HOWTO-INSTALL--HEAT-SET-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/HOWTO-INSTALL--HEAT-SET-INSERTS.jpg )
 
 
 #### Heatset insert locations
@@ -82,6 +80,8 @@
 
 ### Magnetic Focus Adjustment
   + This permits moving the focus point using a strong external magnet 
+
+
 [![]( thumbnails/MAGNETIC-FOCUS-ADJUSTMENT_thumbnail.jpg )]( images/MAGNETIC-FOCUS/MAGNETIC-FOCUS-ADJUSTMENT.jpg )
 
 ### Image Examples
