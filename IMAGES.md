@@ -42,14 +42,14 @@
 + Heatset Inserts for CNC Kitchen required for this project
 + These inserts have a narrow lip that fits into the deigned holes
   + [![]( thumbnails/HEAT-SET-INSERT-REQUIRMENTS-FOR-THIS-PROJECTS-CAD-DESIGN_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/HEAT-SET-INSERT-REQUIRMENTS-FOR-THIS-PROJECTS-CAD-DESIGN.jpg )
-#### Using a soldering iron to heatset - melt inserts into project holes
-[![]( thumbnails/SOLDERING-IRON-TIP-AND-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/SOLDERING-IRON-TIP-AND-INSERTS.jpg )
-+ I just use the default soldering temperature of 350C for doing this
-+ Make sure you throughly clean soldering oron tip
-  + Suggest using a wet paper towel when the iron is hot - the steam will help with cleaning
-  + Make sure you keep the soldering iron vertical 
-  + Let insert melt into part untill just below surface
-  + [![]( thumbnails/HOWTO-INSTALL--HEAT-SET-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/HOWTO-INSTALL--HEAT-SET-INSERTS.jpg )
++ Using a soldering iron to heatset - melt inserts into project holes
+  + [![]( thumbnails/SOLDERING-IRON-TIP-AND-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/SOLDERING-IRON-TIP-AND-INSERTS.jpg )
+    + I just use the default soldering temperature of 350C for doing this
+    + Make sure you throughly clean soldering oron tip
+    + Suggest using a wet paper towel when the iron is hot - the steam will help with cleaning
+    + Make sure you keep the soldering iron vertical 
+    + Let insert melt into part untill just below surface
+    + [![]( thumbnails/HOWTO-INSTALL--HEAT-SET-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/HOWTO-INSTALL--HEAT-SET-INSERTS.jpg )
 
 
 #### Heatset insert locations
