@@ -40,6 +40,7 @@
   + Top View
     + [![]( thumbnails/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
 
+
 ### Qwiic I2c cable pinouts
 | Pin | Function | Color | Alternate Color |
 |---|---|---|---|
@@ -48,6 +49,7 @@
 | 3 | SDA | BLUE | GREEN |
 | 4 | SCL | YELLOW | WHITE |
 
+
 ### Raspberry Pi 4 Wavershare Poe HAT version E 
 + Waveshare POE HAT (E) []( https://www.amazon.ca/dp/B0BKK6FXRJ )
   + [![]( thumbnails/Waveshare-PoE-HAT-version-E-for-Raspberry-Pi-4_thumbnail.jpg )]( images/RPI-INSTALLATION/Waveshare-PoE-HAT-version-E-for-Raspberry-Pi-4.jpg )
@@ -55,9 +57,10 @@
 | Pin | Function | 
 |---|---|---|---|
 
+
 ### Raspberry Pi 5 POE HAT pinout 
 + Hacker Gadgets Raspberry Pi 5 PoE+ and NVME Hat
-[![]( thumbnails/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT_thumbnail.jpg )]( images/RPI-INSTALLATION/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT.jpg )
+  + [![]( thumbnails/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT_thumbnail.jpg )]( images/RPI-INSTALLATION/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT.jpg )
 
 
 ### O-RING version
