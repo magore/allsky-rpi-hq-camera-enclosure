@@ -60,10 +60,10 @@
 
 ### Raspberry Pi 4 Waveshare Poe HAT version E 
 + Waveshare POE HAT (E) https://www.waveshare.com/wiki/PoE_HAT_(E)
-+ Pinout Pin side view components face up
-+ Left to Right, Top to Bottom
+  + Pinout Pin side view components face up
+  + Left to Right, Top to Bottom
     | ROW | Col 1 | Col 2 | Col 3 | Col 4 |
-    |---|---|---|---|---|---|
+    |---|---|---|---|---|
     | Top Row FAN Connections | GND | 5V | 5V | GND |
     | Bottom Row QWIIC I2C Connections | GND | 3.3V | SDA | SCL |
 
