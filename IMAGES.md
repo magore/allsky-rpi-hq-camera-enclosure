@@ -30,6 +30,14 @@
 ### Raspberry PI GPIO header Pinouts
 + Credits https://cdn.sparkfun.com/assets/learn_tutorials/1/5/9/5/GPIO.png
   + [![]( thumbnails/RPI-GPIO-PINOUT_thumbnail.jpg )]( images/RPI-INSTALLATION/RPI-GPIO-PINOUT.jpg )
++ Pinout Used for either Raspberry Pi 4 or 5
+  + | Pin | Function | Pin | Function |
+    |---|---|---|---|
+    | 1 | 3.3v | 2 | 5V |
+    | 3 | SDA | 4 | 5V  FAN Red Wire|
+    | 5 | SCL | 6 | GND  FAN Black Wire|
+    | 7 | Not Used | 8 | Not Used |
+    | 9 | GND | 10 | Not Used |
 
 ### Raspberry Pi assembly
 + Raspberry PI 5 assembly stack with the Hacker Gadgets Raspberry Pi 5 POE+ and NVME HAT
@@ -51,17 +59,17 @@
 
 
 ### Raspberry Pi 4 Wavershare Poe HAT version E 
-+ Waveshare POE HAT (E) []( https://www.amazon.ca/dp/B0BKK6FXRJ )
-  + [![]( thumbnails/Waveshare-PoE-HAT-version-E-for-Raspberry-Pi-4_thumbnail.jpg )]( images/RPI-INSTALLATION/Waveshare-PoE-HAT-version-E-for-Raspberry-Pi-4.jpg )
-  + Pinout
-| Pin | Function | 
-|---|---|---|---|
-
++ Waveshare POE HAT (E) https://www.waveshare.com/wiki/PoE_HAT_(E)
+  + Pinout Pin side view components face up
+  + Left to Right, Top to Bottom
+  + | ROW | 1 | 2 | 3 | 4|
+    |---|---|---|---|---|---|
+    | Top Row FAN Connections | GND | 5V | 5V | GND |
+    | Bottom Row QWIIC I2C Connections | GND | 3.3V | SDA | SCL |
 
 ### Raspberry Pi 5 POE HAT pinout 
 + Hacker Gadgets Raspberry Pi 5 PoE+ and NVME Hat
   + [![]( thumbnails/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT_thumbnail.jpg )]( images/RPI-INSTALLATION/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT.jpg )
-
 
 ### O-RING version
 + Remove support material from 3D print using a fine flat screw driver
