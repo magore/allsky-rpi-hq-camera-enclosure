@@ -58,10 +58,11 @@
     | 4 | SCL | YELLOW | WHITE |
     
 
-### Raspberry Pi 4 Wavershare Poe HAT version E 
+### Raspberry Pi 4 Waveshare Poe HAT version E 
 + Waveshare POE HAT (E) https://www.waveshare.com/wiki/PoE_HAT_(E)
   + Pinout Pin side view components face up
-  + Left to Right, Top to Bottom
+    + Left to Right, Top to Bottom
+
     | ROW | 1 | 2 | 3 | 4|
     |---|---|---|---|---|---|
     | Top Row FAN Connections | GND | 5V | 5V | GND |
