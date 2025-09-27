@@ -31,7 +31,6 @@
 + Credits https://cdn.sparkfun.com/assets/learn_tutorials/1/5/9/5/GPIO.png
   + [![]( thumbnails/RPI-GPIO-PINOUT_thumbnail.jpg )]( images/RPI-INSTALLATION/RPI-GPIO-PINOUT.jpg )
 + Pinout Used for either Raspberry Pi 4 or 5
-  + 
     | Pin | Function | Pin | Function |
     |---|---|---|---|
     | 1 | 3.3v | 2 | 5V |
