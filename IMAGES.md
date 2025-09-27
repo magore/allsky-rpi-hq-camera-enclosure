@@ -67,9 +67,11 @@
     | Top Row FAN Connections | GND | 5V | 5V | GND |
     | Bottom Row QWIIC I2C Connections | GND | 3.3V | SDA | SCL |
 
-### Raspberry Pi 5 POE HAT pinout 
+### Raspberry Pi 5 POE HAT 
 + Hacker Gadgets Raspberry Pi 5 PoE+ and NVME Hat
   + [![]( thumbnails/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT_thumbnail.jpg )]( images/RPI-INSTALLATION/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT.jpg )
+  + Must use tall ( long pin efmaile to male 20 x 2 header ) to permit access to GPIO pins
+  + See GPIO section above
 
 ### O-RING version
 + Remove support material from 3D print using a fine flat screw driver
