@@ -48,21 +48,21 @@
   + Top View
     + [![]( thumbnails/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
 
-
 ### Qwiic I2c cable pinouts
-| Pin | Function | Color | Alternate Color |
-|---|---|---|---|
-| 1 | GND | BLACK | |
-| 2 | VCC 3.3V | READ | |
-| 3 | SDA | BLUE | GREEN |
-| 4 | SCL | YELLOW | WHITE |
-
++ Used to map cable colors for Qwiic female to JST female adapter cable
+    | Pin | Function | Color | Alternate Color |
+    |---|---|---|---|
+    | 1 | GND | BLACK | |
+    | 2 | VCC 3.3V | READ | |
+    | 3 | SDA | BLUE | GREEN |
+    | 4 | SCL | YELLOW | WHITE |
+    
 
 ### Raspberry Pi 4 Wavershare Poe HAT version E 
 + Waveshare POE HAT (E) https://www.waveshare.com/wiki/PoE_HAT_(E)
   + Pinout Pin side view components face up
   + Left to Right, Top to Bottom
-  + | ROW | 1 | 2 | 3 | 4|
+    | ROW | 1 | 2 | 3 | 4|
     |---|---|---|---|---|---|
     | Top Row FAN Connections | GND | 5V | 5V | GND |
     | Bottom Row QWIIC I2C Connections | GND | 3.3V | SDA | SCL |
