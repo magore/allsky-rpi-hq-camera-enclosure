@@ -79,9 +79,14 @@
   + insert vertically into the support gap and gently pry up repeat process every 30 degrees until the support releases
   + [![]( thumbnails/TOP-ASSEMBLY-REMOVING-3D-PRINTER-SUPPORTS-FOR-O-RING_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-REMOVING-3D-PRINTER-SUPPORTS-FOR-O-RING.jpg )
 + O-Ring instalation
+  + The O-Ring grooves have been designed with more then half a circle diemeter 
+    + This is means they must be slightly compressed into the opening but will then be held in place
   + Lay O-Ring on top of O-Ring slot on print
-	+ To avoid stretching o-ring press down into slot using thumbs first at 180 degrees apart, then 90, the 45, etc, until the oring is fully inserted
+	+ To avoid over stretching O-Ring press the O-Ring straight down into slot at two oppose sides at the same time
+      + Work 180 degrees apart, then 90, the 45, etc, until the O-Ring is fully inserted
   + O-Rings used for top assembly
+    + Note: This O-Ring will be stretched a small amount when inserted
+      + This was done to move the center line of this O-Ring silightly more into the dome flang area
     + [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLATION_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLATION.jpg )
   + O-Ring installed in top assembly
     + [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLED.jpg )
