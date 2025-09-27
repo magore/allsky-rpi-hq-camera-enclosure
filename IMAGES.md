@@ -16,7 +16,7 @@
   + [![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-TOP-VIEW-CLOSEUP_thumbnail.jpg )]( images/ALLSKY-CAMERA-O-RING-VERSION-TOP-VIEW-CLOSEUP.jpg )
 + Top view of allsky camera showing dome, cover, poll mount and weather sensor
   + [![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-WITH-POLL-MOUNT_thumbnail.jpg )]( images/ALLSKY-CAMERA-O-RING-VERSION-WITH-POLL-MOUNT.jpg )
-+ Bottom view of allsky camera showing PG7 Qwicc connector and weatherproof ethernet connection
++ Bottom view of allsky camera showing PG7 Qwiic connector and weatherproof ethernet connection
   + [![]( thumbnails/ALLSKY-CAMERA-BOTTOM-VIEW-CLOSEUP_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/ALLSKY-CAMERA-BOTTOM-VIEW-CLOSEUP.jpg )
 + Inside view of poll mount
   + Note: this fits on the top of a pipe
@@ -26,12 +26,39 @@
 [![]( thumbnails/ALLSKY-CAMERA-WITH-GASKET-COVER-VERSION_thumbnail.jpg )]( images/OPTICAL-DONE-GASKET-VERSION/ALLSKY-CAMERA-WITH-GASKET-COVER-VERSION.jpg )
 [![]( thumbnails/OPTICAL-DOME-COVER-GASKET-VERSION_thumbnail.jpg )]( images/OPTICAL-DONE-GASKET-VERSION/OPTICAL-DOME-COVER-GASKET-VERSION.jpg )
 
-### Raspberry PI
-+ The raspbebry PI5 in this view is assembles as a stack with the Hacker Gadgets Raspberry Pi 5 POE+ and NVME HAT
+## Raspberry PI
+### Raspberry PI GPIO header Pinouts
++ Credits https://cdn.sparkfun.com/assets/learn_tutorials/1/5/9/5/GPIO.png
+  + [![]( thumbnails/RPI-GPIO-PINOUT_thumbnail.jpg )]( images/RPI-INSTALLATION/RPI-GPIO-PINOUT.jpg )
+
+### Raspberry Pi assembly
++ Raspberry PI 5 assembly stack with the Hacker Gadgets Raspberry Pi 5 POE+ and NVME HAT
+  + Note: there is an internal weather sensor to measure temperature and humidity while testing
+  + When this sensor is not used yiu need an fmeal to femail Qwiic adapter or multiport adapter to connect the RPI Qwiic connection to the external BME280 sensor
   + Side view
     + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
   + Top View
     + [![]( thumbnails/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
+
+### Qwiic I2c cable pinouts
+| Pin | Function | Color | Alternate Color |
+|---|---|---|---|
+| 1 | GND | BLACK | |
+| 2 | VCC 3.3V | READ | |
+| 3 | SDA | BLUE | GREEN |
+| 4 | SCL | YELLOW | WHITE |
+
+### Raspberry Pi 4 Wavershare Poe HAT version E 
++ Waveshare POE HAT (E) []( https://www.amazon.ca/dp/B0BKK6FXRJ )
+  + [![]( thumbnails/Waveshare-PoE-HAT-version-E-for-Raspberry-Pi-4_thumbnail.jpg )]( images/RPI-INSTALLATION/Waveshare-PoE-HAT-version-E-for-Raspberry-Pi-4.jpg )
+  + Pinout
+| Pin | Function | 
+|---|---|---|---|
+
+### Raspberry Pi 5 POE HAT pinout 
++ Hacker Gadgets Raspberry Pi 5 PoE+ and NVME Hat
+[![]( thumbnails/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT_thumbnail.jpg )]( images/RPI-INSTALLATION/Hacker-Gadgets-Raspberry-Pi-5-PoE-and-NVME-HAT.jpg )
+
 
 ### O-RING version
 + Remove support material from 3D print using a fine flat screw driver
