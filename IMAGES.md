@@ -10,19 +10,28 @@
   + White for everything else to avoid heating of main tube from Sun - The raspberry Pi gets warn enough on its own
 
 ### Overview
-[![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-OPTICAL-COVER-REMOVED_thumbnail.jpg )]( images/O-RING-INSTALLATION/ALLSKY-CAMERA-O-RING-VERSION-OPTICAL-COVER-REMOVED.jpg )
-[![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-TOP-VIEW-CLOSEUP_thumbnail.jpg )]( images/ALLSKY-CAMERA-O-RING-VERSION-TOP-VIEW-CLOSEUP.jpg )
-[![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-WITH-POLL-MOUNT_thumbnail.jpg )]( images/ALLSKY-CAMERA-O-RING-VERSION-WITH-POLL-MOUNT.jpg )
-[![]( thumbnails/ALLSKY-CAMERA-BOTTOM-VIEW-CLOSEUP_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/ALLSKY-CAMERA-BOTTOM-VIEW-CLOSEUP.jpg )
-[![]( thumbnails/ALLSKY-POLLTOP-MOUNT-ADAPTER_thumbnail.jpg )]( images/MOUNTING/ALLSKY-POLLTOP-MOUNT-ADAPTER.jpg )
++ Top view of allsky camera with dome and cover removed
+  + [![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-OPTICAL-COVER-REMOVED_thumbnail.jpg )]( images/O-RING-INSTALLATION/ALLSKY-CAMERA-O-RING-VERSION-OPTICAL-COVER-REMOVED.jpg )
++ Top view of allsky camera with dome installed
+  + [![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-TOP-VIEW-CLOSEUP_thumbnail.jpg )]( images/ALLSKY-CAMERA-O-RING-VERSION-TOP-VIEW-CLOSEUP.jpg )
++ Top view of allsky camera showing dome, cover, poll mount and weather sensor
+  + [![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-WITH-POLL-MOUNT_thumbnail.jpg )]( images/ALLSKY-CAMERA-O-RING-VERSION-WITH-POLL-MOUNT.jpg )
++ Bottom view of allsky camera showing PG7 Qwicc connector and weatherproof ethernet connection
+  + [![]( thumbnails/ALLSKY-CAMERA-BOTTOM-VIEW-CLOSEUP_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/ALLSKY-CAMERA-BOTTOM-VIEW-CLOSEUP.jpg )
++ Inside view of poll mount
+  + Note: this fits on the top of a pipe
+  + [![]( thumbnails/ALLSKY-POLLTOP-MOUNT-ADAPTER_thumbnail.jpg )]( images/MOUNTING/ALLSKY-POLLTOP-MOUNT-ADAPTER.jpg )
 
 ### Older Gasket Version
 [![]( thumbnails/ALLSKY-CAMERA-WITH-GASKET-COVER-VERSION_thumbnail.jpg )]( images/OPTICAL-DONE-GASKET-VERSION/ALLSKY-CAMERA-WITH-GASKET-COVER-VERSION.jpg )
 [![]( thumbnails/OPTICAL-DOME-COVER-GASKET-VERSION_thumbnail.jpg )]( images/OPTICAL-DONE-GASKET-VERSION/OPTICAL-DOME-COVER-GASKET-VERSION.jpg )
 
 ### Raspberry PI
-[![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
-[![]( thumbnails/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
++ The raspbebry PI5 in this view is assembles as a stack with the Hacker Gadgets Raspberry Pi 5 POE+ and NVME HAT
+  + Side view
+    + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
+  + Top View
+    + [![]( thumbnails/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
 
 ### O-RING version
 + Remove support material from 3D print using a fine flat screw driver
@@ -70,9 +79,21 @@
   + [![]( thumbnails/TOP-ASSEMBLY-WITH-SUPPORT-NO-RPI_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/TOP-ASSEMBLY-WITH-SUPPORT-NO-RPI.jpg )
 
 ### Weather Sensor
-[![]( thumbnails/WEATHER-SENSOR-AND-COVER_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/WEATHER-SENSOR-AND-COVER.jpg )
-[![]( thumbnails/WEATHER-SENSOR-COVER-AND-SCREEN_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/WEATHER-SENSOR-COVER-AND-SCREEN.jpg )
-[![]( thumbnails/BOTTOM-VIEW-WEATHER-SENSOR-INSIDE-ASSEMBLY-VIEW_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/BOTTOM-VIEW-WEATHER-SENSOR-INSIDE-ASSEMBLY-VIEW.jpg )
+  + Sparkfun BME280 wearther sensor installation
+    + Uses M3 x 5.7 heat set inserts - note the are other M2.5 insert holes for another sensor you can ignore
+    + [![]( thumbnails/WEATHER-SENSOR-AND-COVER_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/WEATHER-SENSOR-AND-COVER.jpg )
+  + Glue 15/16" faucet screen into inside of top cover with hot-glue
+  + Secure cover with M3 x 15 philip panhead screws
+    + [![]( thumbnails/WEATHER-SENSOR-COVER-AND-SCREEN_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/WEATHER-SENSOR-COVER-AND-SCREEN.jpg )
+
+### Weatherproof Gaskets
++ Secure PG7 and RJ45 feedtrough to bottom cover and weather sheald holder
+  + The RJ45 has a cover for the inside and outside
+  + I am using a 2ft ultrathin cat 5e ethernet cable
+    + The weather glad that goes over the jack seals on the headshell of the RJ45 and seals fully
+  + The PG7 is used to pass the 500mm Qwiic cable to the weather sensor
+    + I rapped some self sealling fusion selicone tape around the Qwiic cable to ensure a seal with the PG7 cable gland
+  + [![]( thumbnails/BOTTOM-VIEW-WEATHER-SENSOR-INSIDE-ASSEMBLY-VIEW_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/BOTTOM-VIEW-WEATHER-SENSOR-INSIDE-ASSEMBLY-VIEW.jpg )
 
 ### Magnetic Focus Adjustment
   + This permits moving the focus point using a strong external magnet 
