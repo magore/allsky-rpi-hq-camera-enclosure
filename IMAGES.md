@@ -61,6 +61,9 @@
   + Let insert melt into part untill just below surface
 
 [![]( thumbnails/HOWTO-INSTALL--HEAT-SET-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/HOWTO-INSTALL--HEAT-SET-INSERTS.jpg )
+
+
+
 #### Heatset insert locations
 + M3 x 5.7 inserts are used for holding CPU support onto top assembly with M3 x 12mm flat head tapered philips screws
 + M2.5 x 4 inserts are used for holding camera circuit board onto top assembly and RPI onto CPU support 
