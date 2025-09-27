@@ -3,11 +3,11 @@
 + I used a PRUSA MK3.5S for printing this project
 + PETG filament 
 + Infil 
-++ %100 for TOP Assembly, Cover and CPU support 
-++ %20 for all other parts
+ + %100 for TOP Assembly, Cover and CPU support 
+ + %20 for all other parts
 + Colors
-++ Black for TOP Assembly, Cover to alow solar heating to help clear ice, fog and snow on the Optical Dome
-++ White for everything else to avoid heating of main tube from Sun - The raspberry Pi gets warn enough on its own
+ + Black for TOP Assembly, Cover to alow solar heating to help clear ice, fog and snow on the Optical Dome
+ + White for everything else to avoid heating of main tube from Sun - The raspberry Pi gets warn enough on its own
 
 ### Overview
 [![]( thumbnails/ALLSKY-CAMERA-O-RING-VERSION-OPTICAL-COVER-REMOVED_thumbnail.jpg )]( images/O-RING-INSTALLATION/ALLSKY-CAMERA-O-RING-VERSION-OPTICAL-COVER-REMOVED.jpg )
@@ -26,13 +26,13 @@
 
 ### O-RING version
 + O-Ring instalation
-++ Remove support material from 3D print using a fine flat screw driver
-+++ insert vertically into the support gap and gently pry up repeat process every 30 degrees until the support releases
+ + Remove support material from 3D print using a fine flat screw driver
+  + insert vertically into the support gap and gently pry up repeat process every 30 degrees until the support releases
 [![]( thumbnails/TOP-ASSEMBLY-REMOVING-3D-PRINTER-SUPPORTS-FOR-O-RING_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-REMOVING-3D-PRINTER-SUPPORTS-FOR-O-RING.jpg )
 
 
-++ Lay O-Ring on top of O-Ring slot on print
-+++ To avoid stretching o-ring press down into slot using thumbs first at 180 degrees apart, then 90, the 45, etc, until the oring is fully inserted
+ + Lay O-Ring on top of O-Ring slot on print
+  + To avoid stretching o-ring press down into slot using thumbs first at 180 degrees apart, then 90, the 45, etc, until the oring is fully inserted
 [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLATION_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLATION.jpg )
 [![]( thumbnails/TOP-ASSEMBLY-O-RING-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-O-RING-INSTALLED.jpg )
 [![]( thumbnails/TOP-CCOVER-O-RING-AND-DOME-INSTALLED_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-CCOVER-O-RING-AND-DOME-INSTALLED.jpg )
@@ -51,9 +51,9 @@
 [![]( thumbnails/SOLDERING-IRON-TIP-AND-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/SOLDERING-IRON-TIP-AND-INSERTS.jpg )
 + I just use the default soldering temperature of 350C for doing this
 + Make sure you throughly clean soldering oron tip
-++ Suggest using a wet paper towel when the iron is hot - the steam will help with cleaning
-++ Make sure you keep the soldering iron vertical 
-++ Let insert melt into part untill just below surface
+ + Suggest using a wet paper towel when the iron is hot - the steam will help with cleaning
+ + Make sure you keep the soldering iron vertical 
+ + Let insert melt into part untill just below surface
 
 [![]( thumbnails/HOWTO-INSTALL--HEAT-SET-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/HOWTO-INSTALL--HEAT-SET-INSERTS.jpg )
 #### Heatset insert locations
@@ -73,7 +73,7 @@
 [![]( thumbnails/BOTTOM-VIEW-WEATHER-SENSOR-INSIDE-ASSEMBLY-VIEW_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/BOTTOM-VIEW-WEATHER-SENSOR-INSIDE-ASSEMBLY-VIEW.jpg )
 
 ### Magnetic Focus Adjustment
-++ This permits moving the focus point using a strong external magnet 
+ + This permits moving the focus point using a strong external magnet 
 [![]( thumbnails/MAGNETIC-FOCUS-ADJUSTMENT_thumbnail.jpg )]( images/MAGNETIC-FOCUS/MAGNETIC-FOCUS-ADJUSTMENT.jpg )
 
 ### Image Examples
