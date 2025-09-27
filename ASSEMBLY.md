@@ -60,6 +60,7 @@
 
 ### Raspberry Pi 4 Waveshare Poe HAT version E 
 + Waveshare POE HAT (E) https://www.waveshare.com/wiki/PoE_HAT_(E)
+  + [![]( thumbnails/Waveshare-PoE-HAT-version-E-for-Raspberry-Pi-4_thumbnail.jpg )]( images/RPI-INSTALLATION/Waveshare-PoE-HAT-version-E-for-Raspberry-Pi-4.jpg )
   + Pinout Pin side view components face up
   + Left to Right, Top to Bottom
     | ROW | Col 1 | Col 2 | Col 3 | Col 4 |
