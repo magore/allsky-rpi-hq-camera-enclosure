@@ -57,7 +57,7 @@
 ### Raspberry Pi assembly
 + Raspberry PI 5 assembly stack with the Hacker Gadgets Raspberry Pi 5 POE+ and NVME HAT
   + Note: there is an internal weather sensor to measure temperature and humidity while testing
-  + When this sensor is not used yiu need an fmeal to femail Qwiic adapter or multiport adapter to connect the RPI Qwiic connection to the external BME280 sensor
+  + When this sensor is not used you need an female to female Qwiic adapter or multiport adapter to connect the RPI Qwiic connection to the external BME280 sensor
   + Side view
     + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
   + Top View
@@ -150,7 +150,7 @@
     + [![]( thumbnails/WEATHER-SENSOR-COVER-AND-SCREEN_thumbnail.jpg )]( images/BOTTOM-COVER-AND-WEATHER-SENSOR/WEATHER-SENSOR-COVER-AND-SCREEN.jpg )
 
 ### Weatherproof Gaskets
-+ Secure PG7 and RJ45 feedtrough to bottom cover and weather sheald holder
++ Secure PG7 and RJ45 feedtrough to bottom cover and weather sheild holder
   + The RJ45 has a cover for the inside and outside
   + I am using a 2ft ultrathin cat 5e ethernet cable
     + The weather glad that goes over the jack seals on the headshell of the RJ45 and seals fully

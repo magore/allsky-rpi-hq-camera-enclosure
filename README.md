@@ -10,7 +10,7 @@
 
 * Supports optional Ethernet with POE hats<br>
 
-* Includes BME280 Weather Sensor with Temperature, Humidity and Ait Pressure<br>
+* Includes BME280 Weather Sensor with Temperature, Humidity and Air Pressure<br>
   + I hacked in the display of Weather sensor information. I just need to convert the code to the new module format and will share that once done.
 
 ![]( images/ALLSKY-CAMERA-O-RING-VERSION-TOP-VIEW-CLOSEUP.jpg )
