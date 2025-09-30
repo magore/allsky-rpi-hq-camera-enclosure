@@ -39,15 +39,6 @@
     | 7 | Not Used | 8 | Not Used |
     | 9 | GND | 10 | Not Used |
 
-### Raspberry Pi assembly
-+ Raspberry PI 5 assembly stack with the Hacker Gadgets Raspberry Pi 5 POE+ and NVME HAT
-  + Note: there is an internal weather sensor to measure temperature and humidity while testing
-  + When this sensor is not used yiu need an fmeal to femail Qwiic adapter or multiport adapter to connect the RPI Qwiic connection to the external BME280 sensor
-  + Side view
-    + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
-  + Top View
-    + [![]( thumbnails/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
-
 ### Qwiic I2c cable pinouts
 + Used to map cable colors for Qwiic female to JST female adapter cable
     | Pin | Function | Color | Alternate Color |
@@ -57,6 +48,30 @@
     | 3 | SDA | BLUE | GREEN |
     | 4 | SCL | YELLOW | WHITE |
     
+### Raspberry PI Wiring - FAN and QWIIC
+  + Raspberry Pi 5 Wiring
+    + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-5-WIRING-CLOSEUP_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-5-WIRING-CLOSEUP.jpg )
+  + Raspberry Pi 4 Wiring
+    + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-4-WIRING-CLOSEUP_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-4-WIRING-CLOSEUP.jpg )
+
+### Raspberry Pi assembly
++ Raspberry PI 5 assembly stack with the Hacker Gadgets Raspberry Pi 5 POE+ and NVME HAT
+  + Note: there is an internal weather sensor to measure temperature and humidity while testing
+  + When this sensor is not used yiu need an fmeal to femail Qwiic adapter or multiport adapter to connect the RPI Qwiic connection to the external BME280 sensor
+  + Side view
+    + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
+  + Top View
+    + [![]( thumbnails/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY_thumbnail.jpg )]( images/RPI-INSTALLATION/TOP-VIEW-OF-RASPBERRY-PI-5-WITH-CAMERA-ASSEMBLY.jpg )
+  + Raspberry Pi 5 Battery
+    + [![]( thumbnails/BOTTOM-VIEW-OF-RASPBERRY-PI-5-BATTERY_thumbnail.jpg )]( images/RPI-INSTALLATION/BOTTOM-VIEW-OF-RASPBERRY-PI-5-BATTERY.jpg )
+  + Raspberry Pi 5 Header Extension
+    + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-5-SHOWING-HEADER-EXTENSION_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-5-SHOWING-HEADER-EXTENSION.jpg )
+
++ Raspberry Pi 4 assembly stack with POE HAT
+  + [![]( thumbnails/TOP-VIEW-OF-RASPBERRY-PI-4-WITH-FAN_thumbnail.jpg )]( images/RPI-INSTALLATION/TOP-VIEW-OF-RASPBERRY-PI-4-WITH-FAN.jpg )
+  + [![]( thumbnails/TOP-VIEW-OF-RASPBERRY-PI-4-WITHOUT-FAN-SHOWING-WIRING_thumbnail.jpg )]( images/RPI-INSTALLATION/TOP-VIEW-OF-RASPBERRY-PI-4-WITHOUT-FAN-SHOWING-WIRING.jpg )
+  + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-4-WIRING-CLOSEUP_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-4-WIRING-CLOSEUP.jpg )
+
 
 ### Raspberry Pi 4 Waveshare Poe HAT version E 
 + Waveshare POE HAT (E) https://www.waveshare.com/wiki/PoE_HAT_(E)
@@ -67,6 +82,7 @@
     |---|---|---|---|---|
     | Top Row FAN Connections | GND | 5V | 5V | GND |
     | Bottom Row QWIIC I2C Connections | GND | 3.3V | SDA | SCL |
+  + [![]( thumbnails/SIDE-VIEW-OF-RASPBERRY-PI-4-WIRING-CLOSEUP_thumbnail.jpg )]( images/RPI-INSTALLATION/SIDE-VIEW-OF-RASPBERRY-PI-4-WIRING-CLOSEUP.jpg )
 
 ### Raspberry Pi 5 POE HAT 
 + Hacker Gadgets Raspberry Pi 5 PoE+ and NVME Hat
