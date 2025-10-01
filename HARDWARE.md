@@ -88,7 +88,7 @@
 |---------|----------|--------------------|
 | 1/4"-20 x 1 Black Thread Thumb Screw, Stainless Steel | [LINK]( https://www.amazon.ca/dp/B0DC5Y3KLQ ) | [LINK]( https://www.amazon.com/dp/B0DC5Y3KLQ ) |
 | CNC Kitchen Heatset Inserts M3 x 5.7 | [LINK]( https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces ) | |
-| uxcell Knurled Insert Nuts Heatset Inserts M2.5x5mm, Lx4mm OD, 3.25mm sholder | [LINK]( https://www.amazon.ca/dp/B0CTCS2HLT ) | [LINK]( https://www.amazon.ca/dp/B0CTCS2HLT ) ]|
+| uxcell Knurled Insert Nuts Heatset Inserts M2.5x5mm, Lx4mm OD, 3.25mm sholder | [LINK]( https://www.amazon.ca/dp/B0CTCS2HLT ) | [LINK]( https://www.amazon.ca/dp/B0CTCS2HLT ) ] |
 | M3 x 12 Phillips Flat Head Stainless Machine Screw | | |
 | M3 x 20 Phillips Flat Head Stainless Machine Screw | | |
 | M2.5 x 6 Phillips Flat Head stainless Machine Screw | | |
