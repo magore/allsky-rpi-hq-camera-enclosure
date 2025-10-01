@@ -5,19 +5,19 @@
 ### Container, Cover and Weatherproofing
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
-| 3.15inch/80mm w/ 4 Holes Clear Acrylic Flange Plastic | [LINK](https://www.amazon.ca/dp/B07L6FBMXF ) | [LINK](https://www.amazon.com/dp/B07L6FBMXF ) |
-| IPEX Ecolotube 3 inch PVC Sewer Solid Sewer Pipe 76.2mm ID 82.5mm OD | SKU # 1000659635  [LINK](https://www.homedepot.ca/product/ipex-ecolotube-3-inch-x-10-feet-pvc-sewer-solid-sewer-pipe/1000659635 ) | |
+| 3.15inch/80mm w/ 4 Holes Clear Acrylic Flange Plastic | [LINK]( https://www.amazon.ca/dp/B07L6FBMXF ) | [LINK]( https://www.amazon.com/dp/B07L6FBMXF ) |
+| IPEX Ecolotube 3 inch PVC Sewer Solid Sewer Pipe 76.2mm ID 82.5mm OD | SKU # 1000659635  [LINK]( https://www.homedepot.ca/product/ipex-ecolotube-3-inch-x-10-feet-pvc-sewer-solid-sewer-pipe/1000659635 ) | |
 | 5 Gram Orange Indicatining Silica Packets | [LINK]( https://www.amazon.ca/dp/B07FSZVZFV ) | [ LINK]( https://www.amazon.ca/dp/B07FSZVZFV ) |
 | PG7 Cable Gland  with gasket | | |
 | Fusion Grip Tape - Silicone | [LINK]( https://www.amazon.ca/dp/B072QYQN7B ) | [LINK]( https://www.amazon.ca/dp/B072QYQN7B ) |
 | Silicone O-Ring 82mm OD 76mm ID 3mm Width | [LINK]( https://www.amazon.ca/dp/B0DHRV93PH ) | [LINK]( https://www.amazon.com/dp/B0DHRV93PH ) |
 | Silicone O-Ring 88mm OD 82mm ID 3mm Width | [LINK]( https://www.amazon.ca/dp/B0DHRRVRNT ) | [LINK]( https://www.amazon.ca/dp/B0DHRRVRNT) |
-| Ethernet LAN Cable Coupler Outdoor Adapter Weatherproof Connection (6-Pack ) | [LINK](https://www.amazon.ca/dp/B08GPB8M6B ) | [LINK](https://www.amazon.com/dp/B08GPB8M6B ) |
+| Ethernet LAN Cable Coupler Outdoor Adapter Weatherproof Connection (6-Pack ) | [LINK]( https://www.amazon.ca/dp/B08GPB8M6B ) | [LINK]( https://www.amazon.com/dp/B08GPB8M6B ) |
 
 ### Camera and Lens Hardware
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
-| Raspberry Pi HQ Camera Sony IMX477 | Digikey  2648-SC1220-ND | [LINK](https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/ ) | 
+| Raspberry Pi HQ Camera Sony IMX477 | Digikey  2648-SC1220-ND | [LINK]( https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/ ) | 
 | CS-MOUNT TO S-MOUNT ADAPTER | Digikey 2938-2000035953-ND | Basler Inc.  2000035953 |
 | LOCK RING M12X0.5| Digikey 2938-2000035198-ND | Basler Inc. 2000035198 |
 | 12MP 1.85MM ULTRA WIDE ANGEL | Digikey 4555-ED-LENS-M12-170185-12-ND | EDATEC ED-LENS-M12-170185-12 |
@@ -45,12 +45,12 @@
 ### Cooling
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
-| Noctua NF-A4x10 5V 40x10mm PREMIUM FAN | [LINK](https://noctua.at/en/products/fan/nf-a4x10-5v ) | |
+| Noctua NF-A4x10 5V 40x10mm PREMIUM FAN | [LINK]( https://noctua.at/en/products/fan/nf-a4x10-5v ) | |
 
 ### POE Networking
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
-| Goalake Poe Managed 5 Port Gigabit Switch | [LINK](https://www.amazon.ca/dp/B0D2X4M1R7 ) | [LINK](https://www.amazon.com/dp/B0D2X4M1R7 ) |
+| Goalake Poe Managed 5 Port Gigabit Switch | [LINK]( https://www.amazon.ca/dp/B0D2X4M1R7 ) | [LINK]( https://www.amazon.com/dp/B0D2X4M1R7 ) |
 
 ### Raspberry PI 4 Specific
 
@@ -62,19 +62,19 @@
 #### Raspberry Pi 4 POE
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
-| Waveshare Raspberry Pi 4 POE HAT (E) | [LINK](https://www.amazon.ca/dp/B0BKK6FXRJ ) | [LINK](https://www.amazon.com/dp/B0BKK6FXRJ ) |
+| Waveshare Raspberry Pi 4 POE HAT (E) | [LINK]( https://www.amazon.ca/dp/B0BKK6FXRJ ) | [LINK]( https://www.amazon.com/dp/B0BKK6FXRJ ) |
 
 ### Raspberry PI 5 Specific
 
 #### Raspberry PI 5 Camera 
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
-| Raspberry Pi 5 Shielded Camera Cable 200mm | [LINK](https://www.raspberrypi.com/products/camera-cable/ ) | |
+| Raspberry Pi 5 Shielded Camera Cable 200mm | [LINK]( https://www.raspberrypi.com/products/camera-cable/ ) | |
 
 #### Raspberry PI 5 POE HAT OPTIONS
 | Description | Source 1 | Source 2|
-| Hacker Gadgets Raspberry Pi 5 POE+ Nvme Hat | [LINK](https://hackergadgets.com/products/nvme-and-poe-hat-for-raspberry-pi-5 ) | |
-| (untested ) Waveshare PCIe To M.2 Adapter With PoE Function (C ) For Raspberry Pi 5, Supports NVM | [LINK](https://www.waveshare.com/poe-m.2-hat-plus-c.htm ) | |
+| Hacker Gadgets Raspberry Pi 5 POE+ Nvme Hat | [LINK]( https://hackergadgets.com/products/nvme-and-poe-hat-for-raspberry-pi-5 ) | |
+| (untested ) Waveshare PCIe To M.2 Adapter With PoE Function (C ) For Raspberry Pi 5, Supports NVM | [LINK]( https://www.waveshare.com/poe-m.2-hat-plus-c.htm ) | |
 
 #### Raspberry PI 5 NVME SSD
 | Description | Source 1 | Source 2|
@@ -86,9 +86,9 @@
 
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
-| 1/4"-20 x 1 Black Thread Thumb Screw, Stainless Steel | [LINK](https://www.amazon.ca/dp/B0DC5Y3KLQ ) | [LINK](https://www.amazon.com/dp/B0DC5Y3KLQ ) |
-| CNC Kitchen Heatset Inserts M3 x 5.7 | [LINK](https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces ) | |
-| CNC Kitchen Heatset Inserts M2.5 x 4 | [LINK](https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-5-standard-100-stk-pcs ) | |
+| 1/4"-20 x 1 Black Thread Thumb Screw, Stainless Steel | [LINK]( https://www.amazon.ca/dp/B0DC5Y3KLQ ) | [LINK]( https://www.amazon.com/dp/B0DC5Y3KLQ ) |
+| CNC Kitchen Heatset Inserts M3 x 5.7 | [LINK]( https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces ) | |
+| uxcell Knurled Insert Nuts Heatset Inserts M2.5x5mm, Lx4mm OD, 3.25mm sholder | [LINK]( https://www.amazon.ca/dp/B0CTCS2HLT ) | [LINK]( https://www.amazon.ca/dp/B0CTCS2HLT ) ]|
 | M3 x 12 Phillips Flat Head Stainless Machine Screw | | |
 | M3 x 20 Phillips Flat Head Stainless Machine Screw | | |
 | M2.5 x 6 Phillips Flat Head stainless Machine Screw | | |

@@ -118,9 +118,14 @@
   + Dome, Top Cover and main assembly test fit
     + [![]( thumbnails/TOP-ASSEMBLY-TEST-FIT-WITH-DOME-AND-COVER_thumbnail.jpg )]( images/O-RING-INSTALLATION/TOP-ASSEMBLY-TEST-FIT-WITH-DOME-AND-COVER.jpg )
 ### Heatset Inserts
-+ Heatset Inserts for CNC Kitchen required for this project
-+ These inserts have a narrow lip that fits into the deigned holes
-  + [![]( thumbnails/HEAT-SET-INSERT-REQUIRMENTS-FOR-THIS-PROJECTS-CAD-DESIGN_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/HEAT-SET-INSERT-REQUIRMENTS-FOR-THIS-PROJECTS-CAD-DESIGN.jpg )
++ Heatset Inserts for this project
+  + These inserts fit the designed holes for the project
+    + CNC Kitchen M3 H=5.7mm, W=4.6mm, Insert sholder = 3.9mm
+      + [![]( thumbnails/HEAT-SET-INSERT-REQUIRMENTS-FOR-THIS-PROJECTS-CAD-DESIGN_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/HEAT-SET-INSERT-REQUIRMENTS-FOR-THIS-PROJECTS-CAD-DESIGN.jpg )
+    + UXCELL M2.5 H=5mm, W=4mm, Insert sholder = 3.25mm 
+      + https://www.amazon.ca/dp/B0CTCS2HLT
+	  + https://www.amazon.ca/dp/B0CTCS2HLT
+
 + Using a soldering iron to heatset - melt inserts into project holes
   + [![]( thumbnails/SOLDERING-IRON-TIP-AND-INSERTS_thumbnail.jpg )]( images/HEAT-SET-INSERT-INSTALLATION/SOLDERING-IRON-TIP-AND-INSERTS.jpg )
     + I just use the default soldering temperature of 350C for doing this
