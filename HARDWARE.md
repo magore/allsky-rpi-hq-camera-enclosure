@@ -40,7 +40,8 @@
 ### Focusing
 | Description | Source 1 | Source 2|
 |---------|----------|--------------------|
-| 5x10 mm cylinder Neodymium Magnets | [LINK]( https://www.amazon.ca/dp/B0DQKTHBCN ) | [LINK]( https://www.amazon.com/dp/B0DQKTHBCN ) |
+| 5x10 mm cylinder Neodymium Magnet for focus pointer | [LINK]( https://www.amazon.ca/dp/B0DQKTHBCN ) | [LINK]( https://www.amazon.com/dp/B0DQKTHBCN ) |
+| 12x12 mm cylinder Neodymium Magnet external focus magnet | [LINK]( https://www.amazon.ca/dp/B07BS5N22P ) | [LINK]( https://www.amazon.ca/dp/B07BS5N22P ) |
 
 ### Cooling
 | Description | Source 1 | Source 2|

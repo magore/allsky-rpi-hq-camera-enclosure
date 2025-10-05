@@ -2,9 +2,11 @@
 ### 3D printing settings
 + I used a PRUSA MK3.5S for printing this project
 + PETG filament 
-+ Infil 
++ Infill Seittings
   + %100 for TOP Assembly, Cover and CPU support 
   + %20 for all other parts
++ Supports
+  + TOP Assembly needs support on build plate enabled for the O-RING grove
 + Colors
   + Black for TOP Assembly, Cover to alow solar heating to help clear ice, fog and snow on the Optical Dome
   + White for everything else to avoid heating of main tube from Sun - The raspberry Pi gets warn enough on its own
